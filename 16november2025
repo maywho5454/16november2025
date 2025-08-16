@@ -1603,7 +1603,7 @@ halaman tidak tersedia
 
 
 
-halaman tidak tersedia
+
 
 
 
@@ -6998,7 +6998,7 @@ FORMULA 1
 #EXTVLCOPT:http-origin=https://vecloud.eu
 #EXTVLCOPT:http-referrer=https://vecloud.eu/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
-#EXTINF:-1 tvg-name="" tvg-logo="https://i.imgur.com/YNcq1yN.jpeg" group-title="OLAHRAGA | FORMULA 1,DAZN F1 ES (AG)
+#EXTINF:-1 tvg-name="" tvg-logo="https://i.imgur.com/YNcq1yN.jpeg" group-title="OLAHRAGA | FORMULA 1",DAZN F1 ES (AG)
 https://events3.liveboxpro.com/event/537.m3u8
 
 #EXTVLCOPT:http-origin=https://vecloud.eu
@@ -7651,7 +7651,7 @@ https://wahyu1ptv.pages.dev/SkySportFootball-HD.m3u8
 #EXTVLCOPT:http-origin=https://vecloud.eu
 #EXTVLCOPT:http-referrer=https://vecloud.eu/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
-#EXTINF:-1 tvg-name="" tvg-logo="https://i.imgur.com/PXIYxfh.jpeg" group-title=BOLA | BUNDESLIGA",Sky Sport Bundesliga 1 HD
+#EXTINF:-1 tvg-name="" tvg-logo="https://i.imgur.com/PXIYxfh.jpeg" group-title="BOLA | BUNDESLIGA",Sky Sport Bundesliga 1 HD
 https://events3.liveboxpro.com/event/558.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PXIYxfh.jpeg" group-title="BOLA | BUNDESLIGA",041. SkySportBundesliga1
@@ -9125,6 +9125,6 @@ https://d2xz2v5wuvgur6.cloudfront.net/out/v1/2fcc58ccec8c45e9aa094fb980eb642d/in
 ---------NEW 3/6/2025
 
 30/7/2025 FIX 6:29 PM  sd
-LOGupdate liga inggris dsafad ff
+LOGupdate liga inggris dsafad ffds
 
 #EXTM3U billed-msg="😎16 november 2025 | lynk.id/magelife😎"
